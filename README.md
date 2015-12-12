@@ -1,2 +1,4 @@
 # RotatingBanner
 UIScrollView复用实现图片轮播功能
+
+注意:加载网络图片使用的是SDWebImage第三方库,需要更新的请自己下载更新
