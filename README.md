@@ -1,0 +1,2 @@
+# RotatingBanner
+UIScrollView复用实现图片轮播功能
